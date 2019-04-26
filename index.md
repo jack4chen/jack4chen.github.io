@@ -1,4 +1,4 @@
-## love you forever dan~
+## love you forever dan ~
 
 You can use the [editor on GitHub](https://github.com/jack4chen/www/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
